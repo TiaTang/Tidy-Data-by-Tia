@@ -1,3 +1,10 @@
+Output scale: 88 Variables, 180 rows of object.
+
+Grouping Criteria
+=================
+The data were grouped by each "subject" and by each "activity".
+
+
 Feature Selection 
 =================
 
@@ -41,9 +48,6 @@ tBodyAccJerkMean
 tBodyGyroMean
 tBodyGyroJerkMean
 
-Grouping Criteria
-======================
-The data were grouped by each subject and by each activity.
 
 Summarize Criteria
 ======================
