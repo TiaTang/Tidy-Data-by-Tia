@@ -13,6 +13,13 @@ If you have already downloaded and unzipped the file, please ignore the first tw
 directly from row #11. Otherwise just run from row 1.
 
 3. Detailed discription of the code is included in the "run_analysis.R" file. 
+    a. Read corresponding files in the folder and combine the "test" files with the "train" file into dataset.
+    b. Rename the variables in the dataset with names from "features.txt"
+    c. Select and keep only the variables that calculates mean and std.
+    d. Add in the activity column and subject column.
+    e. Replace activity column content with readable discriptive words. 
+    f. Summarize the mean for each column by subject and by activity.
+    g. Save the new database into "tidy_data.txt"
 
 4. At the end of the program, a new file called "tidy_data.txt" will be generated and saved into your working directory.
 
